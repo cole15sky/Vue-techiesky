@@ -31,6 +31,5 @@
   </script>
   
   <style scoped>
-  /* Additional styles can go here */
   </style>
   
