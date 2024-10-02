@@ -8,6 +8,7 @@ import GalleryLayout from './components/Gallery/GalleryLayout.vue';
     
     <div>
       <NavBar />
+      <router-view> </router-view>
       <Footer/>
       <GalleryLayout/>
     </div>
